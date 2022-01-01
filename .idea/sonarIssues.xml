@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="$PROJECT_DIR$/patterns/src/BulkOperation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/patterns/src/BulkOperationFactor/BulkUpdateOperation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/patterns/src/BulkOperationFactor/OperationUpdate.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/patterns/src/Templatepattern/bulkfileupload/DataProcces.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/patterns/src/Templatepattern/bulkfileupload/InstagramPost.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/patterns/src/Templatepattern/bulkfileupload/Network.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/patterns/src/Templatepattern/bulkfileupload/PinterestPost.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/patterns/src/Templatepattern/bulkfileupload/Pinterestpost.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/patterns/src/Templatepattern/bulkfileupload/Pintrestpost.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/patterns/src/Templatepattern/bulkfileupload/PostController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/patterns/src/Templatepattern/bulkfileupload/PostService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/patterns/src/Templatepattern/loginSocialMedia/InstagramPost.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/patterns/src/Templatepattern/loginSocialMedia/Network.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/patterns/src/Templatepattern/loginSocialMedia/PasswordResetControlle.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/patterns/src/Templatepattern/loginSocialMedia/PasswordResetController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/patterns/src/Templatepattern/loginSocialMedia/PasswordResetService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/patterns/src/Templatepattern/loginSocialMedia/PinterestPost.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/patterns/src/Templatepattern/loginSocialMedia/PostController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/patterns/src/Templatepattern/loginSocialMedia/PostService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/patterns/src/abstractFactory/AbstractFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/patterns/src/abstractFactory/Address.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/patterns/src/abstractFactory/Adress.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/patterns/src/abstractFactory/Application.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/patterns/src/abstractFactory/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/patterns/src/abstractFactory/TurkeyAddress.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/patterns/src/abstractFactory/TurkeyFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/patterns/src/abstractFactory/UsAddress.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/patterns/src/abstractFactory/UsFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/company/exceptionTree/Tree.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/tapucom/auctions/auctions-rest/src/main/java/com/base/web/rest/admin/auction/AdminAuctionApi.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/tapucom/auctions/auctions-rest/src/main/java/com/base/web/rest/admin/auction/AuctionBulkUpdateService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/tapucom/auctions/auctions-rest/src/main/java/com/base/web/rest/admin/auction/request/AuctionBulkDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/tapucom/auctions/auctions-rest/src/main/java/com/base/web/rest/admin/auction/request/AuctionBulkField.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/tapucom/auctions/auctions-rest/src/test/java/com/base/web/rest/admin/auction/AdminAuctionApiIntegrationTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/tapucom/auctions/auctions-rest/src/test/java/com/base/web/rest/admin/auction/AdminAuctionApiTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
